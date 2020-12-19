@@ -1,10 +1,10 @@
 This work contains the kernel based multi-threaded extensions for 
 LiMIC zero-copy MPI communication. This was done as a prototype 
 implementation to demonstrate the benefits of kerne-assisted, 
-asynchronous parallelism for highly multi-threaded processors 
-e.g., Intel Knights Landing.
+asynchronous parallelism for MPI rendezvous communication on 
+highly multi-threaded processors e.g., Intel Knights Landing.
 
--Jahanzeb
+Signed off by Jahanzeb
 
 ********************************************************************
 
