@@ -5,7 +5,6 @@ implementation to demonstrate the benefits of kerne-assisted,
 asynchronous parallelism for MPI rendezvous communication on 
 highly multi-threaded processors e.g., Intel Knights Landing.
 
-Signed off by Jahanzeb
 ********************************************************************
 BEGIN ORIGINAL LIMIC README
 
